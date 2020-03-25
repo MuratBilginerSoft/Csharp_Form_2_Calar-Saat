@@ -1,0 +1,16 @@
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Çalar Saat v1.0\Çalar Saat v1.0\bin\Debug\Çalar Saat v1.0.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Çalar Saat v1.0\Çalar Saat v1.0\bin\Debug\Çalar Saat v1.0.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar_Saat_v1._0.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar_Saat_v1._0.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar Saat v1.0.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar Saat v1.0.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar Saat v1.0.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar_Saat_v1._0.Saat.resources
+E:\03 - Yazılım\05 - Büyük Projeler\95 Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar Saat v1.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\95 Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar Saat v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\95 Çalar Saat v1.0\Çalar Saat v1.0\bin\Debug\Çalar Saat v1.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\95 Çalar Saat v1.0\Çalar Saat v1.0\bin\Debug\Çalar Saat v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\95 Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar_Saat_v1._0.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\95 Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar_Saat_v1._0.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\95 Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar_Saat_v1._0.Saat.resources
+E:\03 - Yazılım\05 - Büyük Projeler\95 Çalar Saat v1.0\Çalar Saat v1.0\obj\x86\Debug\Çalar Saat v1.0.csproj.GenerateResource.Cache
